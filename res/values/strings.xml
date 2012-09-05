@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Awaryjny GPX</string>
+    <string name="info1">Awaryjny GPX to program, który ściąga plik GPX z 500 najbliższymi keszami i zapisuje go na Twojej karcie pamięci.</string>
+    <string name="info2">Wyjmij kartę z GPSa, włóż ją do telefonu i ściągnij pozycje i opisy najbliższych skrzynek.</string>
+    <string name="latitude">Szerokość*:</string>
+    <string name="longitude">Długość*:</string>
+    <string name="star">* - dozwolone formaty:\n1. [+-]ddd.ddddd\n2. [+-]ddd:mm.mmmmm\n3. [+-]ddd:mm:ss.sssss\n\n** - jeśli niepuste, to skrzynki znalezione przez użytkownika zostaną:</string>
+    <string name="marked">oznaczone</string>
+    <string name="skipped">pominięte</string>
+    <string name="saveas">Zapisz jako:</string>
+    <string name="start">Start</string>
+    <string name="limit">Limit:</string>
+    <string name="history">Historia zmian:\n1.0 - pierwsza wersja,\n1.1 - dodane alternatywne dozwolone formaty współrzędnych,\n1.2 - na końcu opisów umieszczane są referencje do obrazów spoilerów,\n1.3 - ściągane są wszystkie wpisy do logów (wcześniej tylko ostatnich 10),\n1.4 - integracja z Locus (opcja "Importuj Awaryjny GPX"),\n1.5 - drobne poprawki.\n1.6 - Locus okazał się być niekompatybilny wstecz :( poprzednia wersja nie działała z nowymi wersjami Locusa. Trudno powiedzieć, czy ten problem się powtórzy (zależy od autora Locusa).\n1.7 - pomijanie znalezionych skrzynek i sporo innych, drobnych zmian.\n1.8 - opcja oznaczania znalezionych skrznek (wcześniej była jedynie opcja pomijania).</string>
+    <string name="get_nearest_caches">Importuj Awaryjny GPX</string>
+    <string name="user">Login**:</string>
+</resources>
